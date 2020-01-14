@@ -1,7 +1,7 @@
 # A Heuristic Evaluation of Instagram and Snapchat
 
 ### DGT 150 Assignment 1 by Kimberly Jimenez
-
+---
 ###### The reason I choose Instagram and Snpachat, to heuristically evaluate, is because I spend a lot of my recreational time on both of these apps which double as online communities. Online communities, as a whole, connect users together from around the world, including long and short distances. Whereas Snapchat is meant for a more private form of communication, both Snapchat and Instagram create friendships and relationships through mutual interests. 
  
  ### Information About Instagram
