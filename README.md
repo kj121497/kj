@@ -10,7 +10,12 @@
  
  Visit your [Instagram](https://www.instagram.com)
  
-1. Visibility of system status 
+Instagram is a social media site used for photo and video sharing and networking with other users. Captions tend to accompany photo and video posts, but users have the choice to the use the option to their discretion, whether brief, long, or blank. Instagram is known for connecting celebrities to their fans, connecting friends and family, used to engage with and share artwork, travels, concerts, and other similar experiences. Furthermore, the app can be used to connect with people in real-time (Instagram Live) or a brief 24 hour recap (Instagram Story).
+
+A first glance view at Instagram proves the app has the basic funcitionalities of a working app in order. There are five icons at the bottom of the app which allows users to navigate the app. Posting several photos and videos without having to clutter a profile allows for an aesthetically pleasing feed and profile. Aside from the Heart and Paper Airplane icon, the Home, Search, Add, and Profile icons are easy to understand and hints to where the icon may lead a user. However, the Heart icon leads to Acivity, which is not immediately understood by simply looking at the icon. Moreover, the Paper Airplane icon leads to direct messages between users, the two have no immediate correlation. The app no longer informs users how many likes a post has received, which can experience, enjoyment, and validation. The app makes it diffucult for a user to access the posts they have liked. Links that are unnecessarily repetitive—"Close Friends—could make space for useful features, such as "Posts You've Liked". These are only some of use issues immediately found.
+---
+### Information About Snapchat
+
 	Always keep users informed about what is going on.
 	Provide appropriate feedback within reasonable time. 
 
