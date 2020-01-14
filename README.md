@@ -129,3 +129,12 @@ Although Instagram includes an Help page, I believe making it more accessible wo
 ##### Snapchat:
 
 Recently, when uploading Stories with a poor connection, Snapchat will recognize a Story has been uploaded, but refuse to post it when a user has a better connection. Clicking “Retry” is an option, but sometimes even “Retry” will refuse to work and the Story is stuck there unless a user deletes it. Solving this problem and providing a concrete solution for users is important. (3)
+
+---
+### Help and Documentation
+
+##### Instagram:
+
+The Help Center under Help leads to an entirely separate website from Instagram, which can still be accessed from Instagram, because the app supports browsers. The documenentation for help is usefu—detailed and explanatory—for inecxperiences users.
+
+##### Snapchat:
