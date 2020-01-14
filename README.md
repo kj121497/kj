@@ -1,8 +1,8 @@
 # Evaluating Instagram and Tumblr
 
-## Heurisitc Evaluation by Kimberly Jimenez
+### Heurisitc Evaluation by Kimberly Jimenez
 
-The reason I choose Instagram and Tumblr, to heuristically evaluation, is because I spend most of my recreational time on both this app and website. Becuase Instagram and Tumblr are my online community, I would like to see the social media sites improve. Instagram is mainly used for photo and video sharing, whereas Tumblr allows for multimedia posting; however, both are social media sites focused on online and social networking. 
+###### The reason I choose Instagram and Tumblr, to heuristically evaluation, is because I spend most of my recreational time on both this app and website. Becuase Instagram and Tumblr are my online community, I would like to see the social media sites improve. Instagram is mainly used for photo and video sharing, whereas Tumblr allows for multimedia posting; however, both are social media sites focused on online and social networking. 
  
 1. Visibility of system status 
 	Always keep users informed about what is going on.
