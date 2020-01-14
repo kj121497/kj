@@ -1,8 +1,8 @@
-# Evaluating Instagram and Tumblr
+# A Heuristic Evaluation of Instagram and Snapchat
 
-### Heurisitc Evaluation by Kimberly Jimenez
+### DGT 150 Assignment 1 by Kimberly Jimenez
 
-###### The reason I choose Instagram and Tumblr, to heuristically evaluation, is because I spend most of my recreational time on both this app and website. Becuase Instagram and Tumblr are my online community, I would like to see the social media sites improve. Instagram is mainly used for photo and video sharing, whereas Tumblr allows for multimedia posting; however, both are social media sites focused on online and social networking. 
+###### The reason I choose Instagram and Snpachat, to heuristically evaluate, is because I spend a lot of my recreational time on both of these apps which double as online communities. Online communities, as a whole, connect users together from around the world, including long to short distances. Whereas Snapchat is meant for a more private form of communication, both Snapchat and Instagram create friendships and relationships through mutual interests. 
  
 1. Visibility of system status 
 	Always keep users informed about what is going on.
