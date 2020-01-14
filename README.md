@@ -102,11 +102,11 @@ The Search engine on the Camera and Discover page is not as intuitive as the Sea
 
 ##### Instagram:
 
-Posting is relatively easy, for experienced and inexperienced users. Clicking on the Add icon will immediately take a user to their camera gallery for them to pick and choose their selected images. Furthermore, if the image is not already enhanced or edited, Instagram provides a quick method for inexperienced users to freshen their image and a quick solution for experienced users who do not have the time to edit their images. 
+Posting is relatively easy, for experienced and inexperienced users. Clicking on the Add icon will immediately take a user to their camera gallery for them to pick and choose their selected images. Furthermore, if the image is not already enhanced or edited, Instagram provides a quick method for inexperienced users to freshen their image and a quick solution for experienced users who do not have the time to edit their images. (Good)
 
 ##### Snapchat:
 
-Accessing the four navigation pages is relatively easy—there is no need to click, simply swiping will do the job. For experienced users, this is a fast way to move around Snapchat, and for inexperienced users, it is great for their curiosity to learn about the app. 
+Accessing the four navigation pages is relatively easy—there is no need to click, simply swiping will do the job. For experienced users, this is a fast way to move around Snapchat, and for inexperienced users, it is great for their curiosity to learn about the app. (Good)
 
 ---
 ### Aesthetic and Minimalist Design 
