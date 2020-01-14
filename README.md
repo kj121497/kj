@@ -34,7 +34,7 @@ Instagram does not inform users or track how many Likes a post has received—wh
 
 Users are unable to rewind, forward, pause, or play videos. Videos play automatically and continue until they are finished only for them to loop again. Instagram provides a brief time marker in the beginning of the video to indicate how long it is, but it disappears soon after (approximately 3 seconds in) and the user is left to wonder how much time there is left. (3)
 
-#### Snapchat:
+##### Snapchat:
 
 Subscriptions on Snapchat, when viewing and swiping through the Story of that particular channel, have no indicator to let users know how far along they are into the Story or even how long the Story is to begin with. Netflix has an indicator on "Continue Watching" which I think could be useful for Subscriptions, Stories, Channels, etc. (1)
 
