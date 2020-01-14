@@ -17,6 +17,11 @@ A first glance view at Instagram proves the app has the basic funcitionalities o
 ---
 ### Information About Snapchat
 
+<img src="IMG_CC643223DCC1-1.jpeg" width="250">
+
+Visit your [Snapchat](https://www.snapchat.com)
+
+Snapchat is a multimedia messaging app, 
 
 	Always keep users informed about what is going on.
 	Provide appropriate feedback within reasonable time. 
